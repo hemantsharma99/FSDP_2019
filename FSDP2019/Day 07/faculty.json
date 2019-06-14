@@ -1,0 +1,29 @@
+# -*- coding: utf-8 -*-
+"""
+Created on Tue Jun 11 15:49:38 2019
+
+@author: admin
+"""
+[{
+ 	"First Name": "Hemant",
+ 	"Last Name": "Sharma",
+ 	"photo": "www.google.comphoto",
+ 	"Department": "CSE",
+ 	"Reasearch Areas": ["Data Mining", "Web Scrapping"],
+ 	"Contact Details": {
+ 		"Phone Number": "9521988291",
+ 		"Email": "hemant.sharma.rhythm@gmail.com"
+ 	}
+ }
+ {
+ 	"First Name": "Himanshu",
+ 	"Last Name": "Garg",
+ 	"photo": "www.google.comphoto",
+ 	"Department": "ME",
+ 	"Reasearch Areas": ["Bakwass", "Null"],
+ 	"Contact Details": {
+ 		"Phone Number": "9799912973",
+ 		"Email": "himanshu@gmail.com"
+ 	}
+ }
+]
